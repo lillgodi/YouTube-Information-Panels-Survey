@@ -76,7 +76,3 @@ filename: *featureProportions_surveySubject_noIP.pdf*
 - Average YT user no IP
 
 filename: *featureProportions_averageYTUser_noIP.pdf*
-
-# Contact
-
-If you would like to request additional information or clarification, please reach out to **lg105@wellesley.edu**.
